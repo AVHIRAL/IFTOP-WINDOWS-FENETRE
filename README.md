@@ -2,4 +2,4 @@
 
 Version de IFTOP pour Windows en mode fenêtré plus pratique.
 
-Pas oublier d'installer les librairies.
+Pas oublié d'installer les librairies.
